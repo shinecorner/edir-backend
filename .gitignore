@@ -1,0 +1,21 @@
+# Laravel 5
+/vendor
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+composer.lock
+#IDE
+/.idea
+#Other
+node_modules/
+public/storage
+public/js
+public/css
+public/fonts
+npm-debug.log
+
+edir-backend.sql.*
+edir-backend.sql
